@@ -22,7 +22,39 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 
 ## Playlists
 
-Download the [Bangladesh, India, News, Sports, and Pakistan playlist (.m3u)](https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/bangladesh-india-news-sports.m3u).
+Open or download a category playlist, or copy its URL:
+
+- **Bangladesh TV** — [Open/download](https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/bangladesh-tv.m3u)
+
+  ```
+  https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/bangladesh-tv.m3u
+  ```
+
+- **Indian TV** — [Open/download](https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/indian-tv.m3u)
+
+  ```
+  https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/indian-tv.m3u
+  ```
+
+- **News** — [Open/download](https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/news.m3u)
+
+  ```
+  https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/news.m3u
+  ```
+
+- **Sports** — [Open/download](https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/sports.m3u)
+
+  ```
+  https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/sports.m3u
+  ```
+
+- **Pakistan TV** — [Open/download](https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/pakistan-tv.m3u)
+
+  ```
+  https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/pakistan-tv.m3u
+  ```
+
+Upload these five `.m3u` files to the `playlists` folder in this repository for the links to work.
 
 ## EPG
 
