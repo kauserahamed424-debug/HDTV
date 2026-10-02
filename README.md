@@ -20,8 +20,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 Simply paste the link to one of the playlists into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
 
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
-
 ## Playlists
 
 The curated Bangladesh, India, News, Sports, and Pakistan playlist can be found at:
@@ -55,20 +53,6 @@ If you have a question or idea, welcome to the [Discussions](https://github.com/
 ## FAQ
 
 The answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file.
-
-## Contribution
-
-Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
-
-And thank you to everyone who has already contributed!
-
-### Backers
-
-<a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/iptv-org/backers.svg?width=890" /></a>
-
-### Contributors
-
-<a href="https://github.com/iptv-org/iptv/graphs/contributors"><img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
 
 ## Legal
 
