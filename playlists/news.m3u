@@ -1124,3 +1124,7 @@ https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 https://cdn.pishow.tv/ott/live/1211/master.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png",DD Mizoram (504p) group-title="News"
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="VNMTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VNM_News.png",VNM TV (576p) group-title="News"
+http://51.75.127.199:3141/vnmtv/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",Sky News Urdu (720p) group-title="News"
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8

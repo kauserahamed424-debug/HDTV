@@ -3021,3 +3021,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.in@SD" tvg-logo="https://i.imgur.com/KIEKOt1.png",WeatherSpy (India) group-title="Indian TV"
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VNMTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VNM_News.png",VNM TV (576p) group-title="News"
+http://51.75.127.199:3141/vnmtv/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",Sky News Urdu (720p) group-title="News"
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
