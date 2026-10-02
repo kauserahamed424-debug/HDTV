@@ -22,13 +22,9 @@ Simply paste the link to one of the playlists into [any video player](https://gi
 
 ## Playlists
 
-The curated Bangladesh, India, News, Sports, and Pakistan playlist can be found at:
-
-```
-./playlists/bangladesh-india-news-sports.m3u
-```
-
-Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
+The curated Bangladesh, India, News, Sports, and Pakistan playlist is available
+[here](./playlists/bangladesh-india-news-sports.m3u). Upload the playlist file to
+the `playlists` folder in this repository to make the link work.
 
 ## EPG
 
