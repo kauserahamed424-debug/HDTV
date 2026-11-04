@@ -4,7 +4,7 @@
 
 ### Your channels. One playlist.
 
-<img src="assets/live-player.gif" alt="Cinematic anime-inspired midnight scene of a viewer watching a live football match on TV beneath a glowing moon" width="100%">
+<img src="assets/live-player.gif" alt="Dark cinematic anime action scene with a blue-eyed swordsman mirroring a katana fight on television" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=850&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;lines=236+channels+%E2%80%A2+one+playlist;Sports+%E2%80%A2+News+%E2%80%A2+Bangla+%E2%80%A2+Movies;Kids+%E2%80%A2+Music+%E2%80%A2+Religious+%E2%80%A2+More" alt="Typing animation introducing the live TV playlist">
 
