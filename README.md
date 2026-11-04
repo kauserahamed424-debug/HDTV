@@ -29,7 +29,6 @@ Open or download the complete live playlist, or copy its URL:
   ```
   https://raw.githubusercontent.com/kauserahamed424-debug/HDTV/main/playlists/live.m3u
   ```
-
 ## EPG
 
 [Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [iptv-org/epg](https://github.com/iptv-org/epg) repository.
