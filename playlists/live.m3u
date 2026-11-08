@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="ch-1793938608079-0" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10" group-title="General",T Sports
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938608079-0
 #EXTINF:-1 tvg-id="ch-1793938608079-2" tvg-name="A Sports" tvg-logo="https://i.postimg.cc/767hjG0z/channels4-profile-(1).jpg" group-title="General",A Sports
@@ -17,6 +17,8 @@ https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938736645-217
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938608079-4
 #EXTINF:-1 tvg-id="ch-1793938608079-5" tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/2yhw5M0c/20241005-170916.png" group-title="General",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-218" tvg-name="Sony Ten Cricket" tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports",Sony Ten Cricket
+https://alixbd.com/playlistconfig/channel/41.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-1" tvg-name="Nagorik Tv" tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="General",Nagorik Tv
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-10" tvg-name="Matribhumi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttOoq1gC8VFet-OuGNB-kwAdoxMPCkgsEyh7DOQr0mLmXb6wRbE8-J22l&s=10" group-title="General",Matribhumi Tv
@@ -55,6 +57,8 @@ https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-27" tvg-name="G-Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="General",G-Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ch-1793938608079-28" tvg-name="Movie Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10" group-title="General",Movie Bangla
+https://alixbd.com/playlistconfig/channel/19.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-29" tvg-name="Gazi Tv" tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="General",Gazi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-30" tvg-name="Asian Tv" tvg-logo="https://yt3.googleusercontent.com/eMcIPmI9hKQIHua9lU7l7AnELALHsP_1EwIkZ8tJa-FV-epwPdiX0zxb5gnUuH2-R0t8hpxHxA=s900-c-k-c0x00ffffff-no-rj" group-title="General",Asian Tv
@@ -121,10 +125,18 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938608079-61
 #EXTINF:-1 tvg-id="ch-1793938608079-62" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="General",Al Jazeera
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938608079-62
+#EXTINF:-1 tvg-id="ch-1793938608079-63" tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyChyEkV9SuWsXb7A_EyU9YwOrMaxvty8msO7FTXvRuK7dFMGGHYUzr6g&s=10" group-title="General",Sony Max
+https://alixbd.com/playlistconfig/channel/61.m3u8
+#EXTINF:-1 tvg-id="ch-1793938608079-64" tvg-name="Sony Entertainment Hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b02e7be82b9b488e5a79b0f7e8f7ca1c.png" group-title="General",Sony Entertainment Hd
+https://alixbd.com/playlistconfig/channel/52.m3u8
+#EXTINF:-1 tvg-id="ch-1793938608079-65" tvg-name="Sony Max 2" tvg-logo="https://yt3.googleusercontent.com/r7fi39b2G0g-xrHbziVK_V0rgQqwRqXRtSDuUaALPCL-41ayfqIs_m7tSGR1ZGXU76toUEU3wg=s900-c-k-c0x00ffffff-no-rj" group-title="General",Sony Max 2
+https://alixbd.com/playlistconfig/channel/65.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-66" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="General",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-68" tvg-name="Music India" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="General",Music India
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938608079-68
+#EXTINF:-1 tvg-id="ch-1793938608079-69" tvg-name="B4U Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png" group-title="General",B4U Music
+https://alixbd.com/playlistconfig/channel/54.m3u8
 #EXTINF:-1 tvg-id="ch-1793938608079-70" tvg-name="bein xtra" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_mbein_sports_m.jpg" group-title="General",bein xtra
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938608079-70
 #EXTINF:-1 tvg-id="ch-1793938608079-71" tvg-name="Duronto Tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/085a3357868699.Y3JvcCw3MTksNTYzLDMyMSw4Mw.jpg" group-title="General",Duronto Tv
@@ -499,22 +511,126 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-176" tvg-name="ZB Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Movies",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-177" tvg-name="Zee Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema
+https://alixbd.com/playlistconfig/channel/66.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-178" tvg-name="Zee Cinema APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-179" tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="General",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-180" tvg-name="Toffee TV" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Family",Toffee TV
+https://alixbd.com/playlistconfig/channel/1.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-181" tvg-name="Toffee Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Movies",Toffee Movies
+https://alixbd.com/playlistconfig/channel/2.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-182" tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Sports",WC Match Recap
+https://alixbd.com/playlistconfig/channel/3.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-183" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports",ESPN 3
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938736645-183
 #EXTINF:-1 tvg-id="ch-1793938736645-184" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938736645-184
+#EXTINF:-1 tvg-id="ch-1793938736645-185" tvg-name="AWSN TV" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg" group-title="Live Action",AWSN TV
+https://alixbd.com/playlistconfig/channel/6.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-186" tvg-name="CNN" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Documentary",CNN
+https://alixbd.com/playlistconfig/channel/7.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-192" tvg-name="Global TV" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Live Action",Global TV
+https://alixbd.com/playlistconfig/channel/13.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-193" tvg-name="Channel S" tvg-logo="https://assets-prod.services.toffeelive.com/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Live Action",Channel S
+https://alixbd.com/playlistconfig/channel/14.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-194" tvg-name="Rajdhani TV" tvg-logo="https://assets-prod.services.toffeelive.com/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="Live Action",Rajdhani TV
+https://alixbd.com/playlistconfig/channel/15.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-195" tvg-name="Bangla TV" tvg-logo="https://assets-prod.services.toffeelive.com/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Live Action",Bangla TV
+https://alixbd.com/playlistconfig/channel/16.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-197" tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Live Action",Channel i
+https://alixbd.com/playlistconfig/channel/18.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-199" tvg-name="Nexus TV" tvg-logo="https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Live Action",Nexus TV
+https://alixbd.com/playlistconfig/channel/20.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-200" tvg-name="Islamic TV" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png" group-title="Live Action",Islamic TV
+https://alixbd.com/playlistconfig/channel/21.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-201" tvg-name="Desh TV" tvg-logo="https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Live Action",Desh TV
+https://alixbd.com/playlistconfig/channel/22.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-203" tvg-name="Ekhon TV" tvg-logo="https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="Live Action",Ekhon TV
+https://alixbd.com/playlistconfig/channel/24.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-204" tvg-name="Ekattor TV" tvg-logo="https://assets-prod.services.toffeelive.com/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="General",Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-205" tvg-name="Channel News Asia" tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png" group-title="Documentary",Channel News Asia
+https://alixbd.com/playlistconfig/channel/26.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-206" tvg-name="TRT World" tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png" group-title="Documentary",TRT World
+https://alixbd.com/playlistconfig/channel/27.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-207" tvg-name="DW" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Documentary",DW
+https://alixbd.com/playlistconfig/channel/28.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-209" tvg-name="Russia Today" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Documentary",Russia Today
+https://alixbd.com/playlistconfig/channel/30.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-210" tvg-name="France 24" tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png" group-title="Documentary",France 24
+https://alixbd.com/playlistconfig/channel/31.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-211" tvg-name="CGTN" tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png" group-title="Documentary",CGTN
+https://alixbd.com/playlistconfig/channel/32.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-212" tvg-name="Eurosport HD" tvg-logo="https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp" group-title="Sports",Eurosport HD
+https://alixbd.com/playlistconfig/channel/33.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-213" tvg-name="Saudi Sunnah" tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png" group-title="Documentary",Saudi Sunnah
+https://alixbd.com/playlistconfig/channel/34.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-214" tvg-name="Saudi Quran" tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png" group-title="Documentary",Saudi Quran
+https://alixbd.com/playlistconfig/channel/35.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-219" tvg-name="Cartoon Network HD +" tvg-logo="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp" group-title="Teen",Cartoon Network HD +
+https://alixbd.com/playlistconfig/channel/40.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-220" tvg-name="Cartoon Network" tvg-logo="https://assets-prod.services.toffeelive.com/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" group-title="Teen",Cartoon Network
+https://alixbd.com/playlistconfig/channel/41.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-222" tvg-name="Discovery Kids" tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="Teen",Discovery Kids
+https://alixbd.com/playlistconfig/channel/43.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-223" tvg-name="Sony YAY" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Family",Sony YAY
+https://alixbd.com/playlistconfig/channel/44.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-225" tvg-name="Zee Anmol" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="Drama",Zee Anmol
+https://alixbd.com/playlistconfig/channel/46.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-226" tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png" group-title="Comedy",Zing
+https://alixbd.com/playlistconfig/channel/47.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-227" tvg-name="HUM" tvg-logo="https://assets-prod.services.toffeelive.com/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png" group-title="Drama",HUM
+https://alixbd.com/playlistconfig/channel/48.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-228" tvg-name="HUM Masala" tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Drama",HUM Masala
+https://alixbd.com/playlistconfig/channel/49.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-229" tvg-name="HUM Sitaray" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Drama",HUM Sitaray
+https://alixbd.com/playlistconfig/channel/50.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-231" tvg-name="Sony Entertainment Hd" tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="General",Sony Entertainment Hd
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938736645-231
+#EXTINF:-1 tvg-id="ch-1793938736645-234" tvg-name="Sony SAB HD" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Family",Sony SAB HD
+https://alixbd.com/playlistconfig/channel/55.m3u8
 #EXTINF:-1 tvg-id="ch-1793938736645-235" tvg-name="Zee TV HD" tvg-logo="https://assets-prod.services.toffeelive.com/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png" group-title="General",Zee TV HD
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793938736645-235
+#EXTINF:-1 tvg-id="ch-1793938736645-236" tvg-name="Sony MAX HD" tvg-logo="https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Movies",Sony MAX HD
+https://alixbd.com/playlistconfig/channel/57.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-237" tvg-name="Zee Bangla Cinema" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Movies",Zee Bangla Cinema
+https://alixbd.com/playlistconfig/channel/58.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-238" tvg-name="Zee Bollywood" tvg-logo="https://assets-prod.services.toffeelive.com/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png" group-title="Movies",Zee Bollywood
+https://alixbd.com/playlistconfig/channel/59.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-239" tvg-name="Zee Action" tvg-logo="https://assets-prod.services.toffeelive.com/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png" group-title="Movies",Zee Action
+https://alixbd.com/playlistconfig/channel/60.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-241" tvg-name="Sony PIX HD" tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Movies",Sony PIX HD
+https://alixbd.com/playlistconfig/channel/62.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-242" tvg-name="Zee Cafe" tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png" group-title="Movies",Zee Cafe
+https://alixbd.com/playlistconfig/channel/63.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-243" tvg-name="B4U Movies APAC" tvg-logo="https://assets-prod.services.toffeelive.com/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp" group-title="Movies",B4U Movies APAC
+https://alixbd.com/playlistconfig/channel/64.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-245" tvg-name="Zee Cinema HD" tvg-logo="https://assets-prod.services.toffeelive.com/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png" group-title="Movies",Zee Cinema HD
+https://alixbd.com/playlistconfig/channel/66.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-246" tvg-name="TLC HD" tvg-logo="https://assets-prod.services.toffeelive.com/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" group-title="Fantasy",TLC HD
+https://alixbd.com/playlistconfig/channel/67.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-247" tvg-name="TLC" tvg-logo="https://assets-prod.services.toffeelive.com/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp" group-title="Fantasy",TLC
+https://alixbd.com/playlistconfig/channel/68.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-249" tvg-name="Animal Planet HD" tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Adventure",Animal Planet HD
+https://alixbd.com/playlistconfig/channel/70.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-250" tvg-name="Sony BBC Earth HD" tvg-logo="https://assets-prod.services.toffeelive.com/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="Family",Sony BBC Earth HD
+https://alixbd.com/playlistconfig/channel/71.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-251" tvg-name="Discovery HD" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Adventure",Discovery HD
+https://alixbd.com/playlistconfig/channel/72.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-253" tvg-name="Discovery Science" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Science Fiction",Discovery Science
+https://alixbd.com/playlistconfig/channel/74.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-254" tvg-name="Discovery Turbo" tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp" group-title="Adventure",Discovery Turbo
+https://alixbd.com/playlistconfig/channel/75.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-255" tvg-name="Investigation Discovery HD" tvg-logo="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png" group-title="Documentary",Investigation Discovery HD
+https://alixbd.com/playlistconfig/channel/76.m3u8
+#EXTINF:-1 tvg-id="ch-1793938736645-256" tvg-name="&TV HD" tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png" group-title="Drama",&TV HD
+https://alixbd.com/playlistconfig/channel/77.m3u8
 #EXTINF:-1 tvg-id="ch-1793981668004" tvg-name="Channel 1" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/74a3b409-4bc6-4055-8960-cd27cb7ccc1f.png" group-title="News",Channel 1
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1793981668004
+#EXTINF:-1 tvg-id="ch-1793938736645-257" tvg-name="& Pictures HD" tvg-logo="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png" group-title="Movies",& Pictures HD
+https://alixbd.com/playlistconfig/channel/78.m3u8
 #EXTINF:-1 tvg-id="ch-1794129440800" tvg-name="Anime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz9WQGA_vzYTD57ijnQFpufT4aA458RI128Ut0pO9-w&s=10" group-title="News",Anime
 https://bdtv-app.vercel.app/api/proxy?ch=ch-1794129440800
 #EXTINF:-1 tvg-id="ch-1794129503685" tvg-name="Anime x HIDIVE" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="News",Anime x HIDIVE
